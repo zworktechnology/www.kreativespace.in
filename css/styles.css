@@ -296,7 +296,7 @@ a:active {
     display: inline-block;
     text-transform: capitalize;
     text-align: center;
-    background-color: #fe7c00;
+    background-color:  #93c021;
     color: #fff !important;
     font-size: 16px !important;
     font-weight: 700;
@@ -347,16 +347,16 @@ a:active {
 }
 
 .butn.white {
-    background-color: #ffffff;
-    color: #fe7c00 !important
+    background-color: #0071bc;
+    color: #FFFFFF!important
 }
 
 .butn.white:hover {
-    color: #fff !important
+    color: #93c021 !important
 }
 
 .butn.white:before {
-    background-color: #fe7c00
+    background-color: #0071bc
 }
 
 .butn.md {

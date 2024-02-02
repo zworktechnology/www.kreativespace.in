@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Archic - Construction and Architecture HTML Template
+    Theme Name: Kreative space 
     Description: Construction and Architecture HTML Template
     Author: Website Design Templates
     Version: 2.0
