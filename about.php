@@ -3,7 +3,7 @@
 
 <!-- PAGE TITLE
         ================================================== -->
-<section class="page-title-section bg-img cover-background top-position1 secondary-overlay" data-overlay-dark="7" data-background="img/banner/page-title.jpg">
+<section class="page-title-section bg-img cover-background top-position1 secondary-overlay" data-overlay-dark="7" data-background="img/banner/page-title1.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -189,14 +189,14 @@
                 <div class="testimonial-style1">
                     <div class="d-flex">
                         <div class="flex-shrink-0">
-                            <img src="img/avatars/avatar-04.jpg" class="border-radius-10" alt="...">
+                            <img src="img/avatars/avatar-1.jpg" class="border-radius-10" alt="...">
                         </div>
                         <div class="flex-grow-1 ms-4 pt-4">
                             <h4 class="h5 mb-1">Happy Customer</h4>
                             <small>Review</small>
                         </div>
                     </div>
-                    <div class="testi-text">
+                    <div class="testi-text" style="margin-top: 5px;">
                         <i class="fa-solid fa-quote-right icon"></i>
                         <div class="item-desc">
                             Choosing Kreative Space Construction was the best decision for our commercial project. Their innovative approach and timely delivery exceeded our expectations. Highly recommended!
@@ -208,14 +208,14 @@
                 <div class="testimonial-style1">
                     <div class="d-flex">
                         <div class="flex-shrink-0">
-                            <img src="img/avatars/avatar-05.jpg" class="border-radius-10" alt="...">
+                            <img src="img/avatars/avatar-1.jpg" class="border-radius-10" alt="...">
                         </div>
                         <div class="flex-grow-1 ms-4 pt-4">
                             <h4 class="h5 mb-1">Happy Customer</h4>
                             <small>Review</small>
                         </div>
                     </div>
-                    <div class="testi-text">
+                    <div class="testi-text" style="margin-top: 5px;">
                         <i class="fa-solid fa-quote-right icon"></i>
                         <div class="item-desc">
                             Their team was fantastic to work with. They listened to my ideas and preferences, and their attention to detail was commendable. The quality
@@ -227,14 +227,14 @@
                 <div class="testimonial-style1">
                     <div class="d-flex">
                         <div class="flex-shrink-0">
-                            <img src="img/avatars/avatar-06.jpg" class="border-radius-10" alt="...">
+                            <img src="img/avatars/avatar-1.jpg" class="border-radius-10" alt="...">
                         </div>
                         <div class="flex-grow-1 ms-4 pt-4">
                             <h4 class="h5 mb-1">Happy Customer</h4>
                             <small>Review</small>
                         </div>
                     </div>
-                    <div class="testi-text">
+                    <div class="testi-text" style="margin-top: 5px;">
                         <i class="fa-solid fa-quote-right icon"></i>
                         <div class="item-desc">
                             Kreative Space Construction has truly set a benchmark in construction in Tamil Nadu. Their commitment to quality and timelines is commendable. I am a satisfied customer!

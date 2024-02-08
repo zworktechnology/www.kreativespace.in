@@ -2,7 +2,7 @@
 
 <!-- PAGE TITLE
         ================================================== -->
-<section class="page-title-section bg-img cover-background top-position1 secondary-overlay" data-overlay-dark="7" data-background="img/banner/page-title.jpg">
+<section class="page-title-section bg-img cover-background top-position1 secondary-overlay" data-overlay-dark="7" data-background="img/banner/page-title2.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -35,12 +35,12 @@
                             <img src="img/icons/03.png" alt="...">
                         </div>
                         <div class="card-image">
-                            <img src="img/service/service-01.webp" alt="...">
+                            <img src="img/service/service-01.jpg" alt="...">
                         </div>
                     </div>
                     <div class="card-content">
-                        <h3 class="mb-2 h5"><a href="javascript:void(0)">Interior-Design</a></h3>
-                        <a href="javascript:void(0)>Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                        <h3 class="mb-2 h5">Interior-Design</h3>
+                        <a href="interior-design.php">Read more<i class="ti-arrow-right align-middle ms-1"></i></a>
                     </div>
                 </div>
             </div>
@@ -52,12 +52,12 @@
                             <img src="img/icons/04.png" alt="...">
                         </div>
                         <div class="card-image">
-                            <img src="img/service/service-04.webp" alt="...">
+                            <img src="img/service/service-04.jpg" alt="...">
                         </div>
                     </div>
                     <div class="card-content">
-                        <h3 class="mb-2 h5"><a href="javascript:void(0)">Exterior-Design</a></h3>
-                        <a href="javascript:void(0)">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                        <h3 class="mb-2 h5">Exterior-Design</h3>
+                        <a href="exterior-design.php">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                     </div>
                 </div>
             </div>
@@ -69,12 +69,12 @@
                             <img src="img/icons/05.png" alt="...">
                         </div>
                         <div class="card-image">
-                            <img src="img/service/service-3.webp" alt="...">
+                            <img src="img/service/service-3.jpg" alt="...">
                         </div>
                     </div>
                     <div class="card-content">
-                        <h3 class="mb-2 h5"><a href="javascript:void(0)">Architects</a></h3>
-                        <a href="javascript:void(0)">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                        <h3 class="mb-2 h5">Architects</h3>
+                        <a href="architecture-building.php">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                     </div>
                 </div>
             </div>
@@ -86,12 +86,12 @@
                             <img src="img/icons/06.png" alt="...">
                         </div>
                         <div class="card-image">
-                            <img src="img/service/service-03.webp" alt="...">
+                            <img src="img/service/service-03.jpg" alt="...">
                         </div>
                     </div>
                     <div class="card-content">
-                        <h3 class="mb-2 h5"><a href="javascript:void(0)">Construction</a></h3>
-                        <a href="javascript:void(0)">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                        <h3 class="mb-2 h5">Construction</h3>
+                        <a href="construction.php">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                     </div>
                 </div>
             </div>
@@ -103,12 +103,12 @@
                             <img src="img/icons/07.png" alt="...">
                         </div>
                         <div class="card-image">
-                            <img src="img/service/service-2.webp" alt="...">
+                            <img src="img/service/service-02.webp" alt="...">
                         </div>
                     </div>
                     <div class="card-content">
-                        <h3 class="mb-2 h5"><a href="javascript:void(0)">Building Management Solutions</a></h3>
-                        <a href="javascript:void(0)">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                        <h3 class="mb-2 h5">Building Management Solutions</h3>
+                        <a href="building-management.php">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                     </div>
                 </div>
             </div>

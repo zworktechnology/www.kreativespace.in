@@ -136,7 +136,7 @@
                             <img src="img/icons/03.png" alt="...">
                         </div>
                         <div class="card-image">
-                            <img src="img/service/service-01.webp" alt="...">
+                            <img src="img/service/service-01.jpg" alt="...">
                         </div>
                     </div>
                     <div class="card-content">
@@ -170,7 +170,7 @@
                             <img src="img/icons/05.png" alt="...">
                         </div>
                         <div class="card-image">
-                            <img src="img/service/service-03.webp" alt="...">
+                            <img src="img/service/service-03.jpg" alt="...">
                         </div>
                     </div>
                     <div class="card-content">

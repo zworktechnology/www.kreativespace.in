@@ -13,6 +13,7 @@
                 <ul class="social-icon-style1">
                     <li>
                         <a href="https://www.facebook.com/people/Kreative-space-construction/100064778479255/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/kreative_space_construction/?igsh=MTdseW5mZHdzNTQ3eg%3D%3D" target="_blank"><i class="fab fa-instagram"></i></a>
                     </li>
                 </ul>
             </div>
@@ -29,11 +30,11 @@
             <div class="col-md-6 col-lg-3 mt-2-9 wow fadeIn" data-wow-delay="400ms">
                 <div class="ps-0">
                     <h3 class="text-white h4 mb-1-9 ">Services</h3>
-                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="javascript:void(0)">Interior Design</a> </li>
-                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="javascript:void(0)">Exterior Design</a></li>
-                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="javascript:void(0)">Construction</a></li>
-                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="javascript:void(0)">Architects</a></li>
-                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="javascript:void(0)">Building Management Solutions</a></li>
+                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="interior-design.php">Interior Design</a> </li>
+                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="exterior-design.php">Exterior Design</a></li>
+                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="construction.php">Construction</a></li>
+                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="architecture-building.php">Architects</a></li>
+                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="building-management.php">Building Management Solutions</a></li>
                 </div>
             </div>
 

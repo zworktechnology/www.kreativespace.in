@@ -2,7 +2,7 @@
 
 <!-- PAGE TITLE
         ================================================== -->
-<section class="page-title-section bg-img cover-background top-position1 secondary-overlay" data-overlay-dark="7" data-background="img/banner/page-title.jpg">
+<section class="page-title-section bg-img cover-background top-position1 secondary-overlay" data-overlay-dark="7" data-background="img/banner/01.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -33,7 +33,7 @@
                             <ul class="category-list list-unstyled mb-0">
                                 <li class="active"><a href="interior-design.php">Interior-Design <span class="ti-arrow-right"></span></a></li>
                                 <li><a href="exterior-design.php">Exterior-Design<span class="ti-arrow-right"></span></a></li>
-                                <li><a href="construction.php">construction <span class="ti-arrow-right"></span></a></li>
+                                <li><a href="construction.php">Construction <span class="ti-arrow-right"></span></a></li>
                                 <li><a href="building-management.php">Building-management <span class="ti-arrow-right"></span></a></li>
                                 <li><a href="architecture-building.php">Architects <span class="ti-arrow-right"></span></a></li>
                             </ul>
@@ -56,10 +56,8 @@
                                 <h5 class="sm-title mb-4">Follow Us</h5>
                             </div>
                             <ul class="social-icon-style2 list-unstyled ps-0">
-                                <li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-whatsapp "></i></a></li>
+                                <li><a href="https://www.facebook.com/people/Kreative-space-construction/100064778479255/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/kreative_space_construction/?igsh=MTdseW5mZHdzNTQ3eg%3D%3D" target="_blank"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -69,14 +67,18 @@
                 <div>
                     <div class="wow fadeInUp" data-wow-delay="200ms">
                         <h2 class="mb-3">Interior-Design</h2>
-                        <p class="mb-1-9">Construction design is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+                        <p class="mb-1-9">
+                            At Kreative Space Construction, interior design is more than just aesthetics; it's about creating functional, captivating spaces that resonate with our clients' lifestyles and aspirations. Our team of seasoned designers meticulously curates every detail, blending form and function seamlessly.
+                        </p>
                     </div>
                     <div class="mb-1-9 text-center wow fadeInUp" data-wow-delay="300ms">
                         <img src="img/service/service-details-01.png" class="border-radius-10" alt="...">
                     </div>
                     <div class="wow fadeInUp" data-wow-delay="400ms">
-                        <h3 class="mb-3 h4">Using Latest Technology</h3>
-                        <p class="mb-1-9">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                        <h3 class="mb-3 h4">Tailored Design Approach</h3>
+                        <p class="mb-1-9">
+                            With a tailored approach to interior design, we prioritize client collaboration and personalized solutions. From conceptualization to execution, we strive to capture the essence of each space, infusing it with character and style that reflects the unique preferences and needs of our clients.
+                        </p>
                     </div>
                     <div class="row mb-2-3">
                         <!--    <div class="col-md-7 mb-1-9 mb-md-0 wow fadeInUp" data-wow-delay="200ms">
@@ -111,7 +113,10 @@
                                 </div>
                             </div>-->
                         <div class="wow fadeInUp" data-wow-delay="400ms">
-                            <p class="mb-0">Ultrices conubia vehicula malesuada. Eros commodo a duis accumsan vestibulum adipiscing hendrerit lobortis viverra non justo semper semper felis eros. Cursus libero viverra tempus netus diam vestibulum est cursus viverra lectus feugiat porta vehicula malesuada</p>
+                            <h5 class="mb-3 h4">Crafting Memorable Spaces</h5>
+                            <p class="mb-0">
+                                Our passion for crafting memorable spaces drives us to push boundaries and explore innovative design concepts. Whether it's a cozy residential retreat or a dynamic commercial environment, we are committed to delivering unparalleled excellence and exceeding expectations at every turn.
+                            </p>
                         </div>
                     </div>
                 </div>

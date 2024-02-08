@@ -3,7 +3,7 @@
 
 <!-- PAGE TITLE
         ================================================== -->
-<section class="page-title-section bg-img cover-background top-position1 secondary-overlay" data-overlay-dark="7" data-background="img/banner/page-title.jpg">
+<section class="page-title-section bg-img cover-background top-position1 secondary-overlay" data-overlay-dark="7" data-background="img/banner/page-title3.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">

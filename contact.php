@@ -3,7 +3,7 @@
 
 <!-- PAGE TITLE
         ================================================== -->
-<section class="page-title-section bg-img cover-background top-position1 secondary-overlay" data-overlay-dark="7" data-background="img/banner/page-title.jpg">
+<section class="page-title-section bg-img cover-background top-position1 secondary-overlay" data-overlay-dark="7" data-background="img/banner/page-title4.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -162,7 +162,7 @@
                             <h3 class="h5">Location</h3>
                             <p class="mb-0 w-lg-80">
                                 70, General Bazaar St. Anna Nagar, Tennur, Tiruchirappalli.
-                                Branch In: Tenkasi, Thoothukudi, Chennai.
+                                Branchs In: Tenkasi, Thoothukudi, Chennai.
                             </p>
                         </div>
                     </div>
