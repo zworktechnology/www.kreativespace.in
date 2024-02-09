@@ -107,7 +107,7 @@
                         </div>
                     </div>
                     <div class="card-content">
-                        <h3 class="mb-2 h5">Building Management Solutions</h3>
+                        <h3 class="mb-2 h5">Building Management</h3>
                         <a href="building-management.php">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                     </div>
                 </div>

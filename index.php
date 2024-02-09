@@ -153,7 +153,7 @@
                             <img src="img/icons/04.png" alt="...">
                         </div>
                         <div class="card-image">
-                            <img src="img/service/service-2.webp" alt="...">
+                            <img src="img/service/service-02.webp" alt="...">
                         </div>
                     </div>
                     <div class="card-content">
