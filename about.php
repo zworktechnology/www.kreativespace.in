@@ -283,7 +283,7 @@
                         <img src="img/team/team-03.png" alt="...">
                     </div>
                     <div class="text-center pt-4">
-                        <h3 class="h5 mb-1"><a href="javascript:void(0)">Name</a></h3>
+                        <h3 class="h5 mb-1"><a href="javascript:void(0)">Sithik</a></h3>
                         <p class="mb-0">Architect</p>
                     </div>
                 </div>
