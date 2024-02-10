@@ -34,7 +34,7 @@
                     <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="exterior-design.php">Exterior Design</a></li>
                     <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="construction.php">Construction</a></li>
                     <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="architecture-building.php">Architects</a></li>
-                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="building-management.php">Building Management Solutions</a></li>
+                    <li style=" margin-bottom:10px; color: white ;"><a class="text-white" href="building-management.php">Building Management</a></li>
                 </div>
             </div>
 
@@ -49,7 +49,7 @@
                             <div class="flex-grow-1 ms-3">
                                 <h5 class="text-white">Address</h4>
                                     <p class="text-white">
-                                        70, General Bazaar St.Anna Nagar, Tennur, Tiruchirappalli.
+                                        No:19,Pallivasal Thoppu Pensioner St, Thennur,Trichy.17
                                     </p>
                             </div>
                         </div>
@@ -59,7 +59,6 @@
                             </div>
                             <div class="flex-grow-1 ms-3">
                                 <h5 class="text-white">Contact Us</h4>
-                                    <a class="text-white" href="tel:+919159295577">+91 91 59 29 55 77</a><br>
                                     <a class="text-white" href="tel:+919940224051">+91 99 40 22 40 51</a>
                             </div>
                         </div>

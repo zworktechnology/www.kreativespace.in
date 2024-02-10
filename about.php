@@ -28,7 +28,7 @@
                 <div class="me-xxl-2-9 position-relative pb-sm-12 text-center text-sm-start">
                     <img src="img/content/about4.jpg" class="border-radius-10" alt="...">
                     <div class="right bottom-0 d-none d-sm-block position-absolute">
-                        <img src="img/content/about3.png" class="border-radius-10" alt="...">
+                        <img src="img/content/about3.jpg" class="border-radius-10" alt="...">
                     </div>
                     <span class="line-box1"></span>
                     <span class="line-box2 d-none d-sm-block"></span>
@@ -168,7 +168,7 @@
                                 <div class="tag">04</div>
                             </div>
                         </div>
-                        <h4 class="mb-0">Start Bulding</h4>
+                        <h4 class="mb-0">Start Building</h4>
                     </div>
                 </div>
             </div>
@@ -258,37 +258,37 @@
             <div class="col-md-6 col-lg-3 mt-1-9 wow fadeIn" data-wow-delay="400ms">
                 <div class="team-style01">
                     <div class="image">
-                        <img src="img/team/team-01.jpg" alt="...">
+                        <img src="img/team/team-01.png" alt="...">
                     </div>
                     <div class="text-center pt-4">
-                        <h3 class="h5 mb-1"><a href="javascript:void(0)">Name</a></h3>
-                        <p class="mb-0">Position</p>
+                        <h3 class="h5 mb-1"><a href="javascript:void(0)">Sheik Md Farook</a></h3>
+                        <p class="mb-0">CEO and FOUNDER</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-1-9 wow fadeIn" data-wow-delay="600ms">
                 <div class="team-style01">
                     <div class="image">
-                        <img src="img/team/team-02.jpg" alt="...">
+                        <img src="img/team/team-02.png" alt="...">
                     </div>
                     <div class="text-center pt-4">
-                        <h3 class="h5 mb-1"><a href="javascript:void(0)">Name</a></h3>
-                        <p class="mb-0">Poistion</p>
+                        <h3 class="h5 mb-1"><a href="javascript:void(0)">Mr. Zack</a></h3>
+                        <p class="mb-0">Engineer</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-1-9 wow fadeIn" data-wow-delay="800ms">
                 <div class="team-style01">
                     <div class="image">
-                        <img src="img/team/team-03.jpg" alt="...">
+                        <img src="img/team/team-03.png" alt="...">
                     </div>
                     <div class="text-center pt-4">
                         <h3 class="h5 mb-1"><a href="javascript:void(0)">Name</a></h3>
-                        <p class="mb-0">Position</p>
+                        <p class="mb-0">Architect</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-3 mt-1-9 wow fadeIn" data-wow-delay="1000ms">
+            <!-- <div class="col-md-6 col-lg-3 mt-1-9 wow fadeIn" data-wow-delay="1000ms">
                 <div class="team-style01">
                     <div class="image">
                         <img src="img/team/team-04.jpg" alt="...">
@@ -298,7 +298,7 @@
                         <p class="mb-0">Position</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

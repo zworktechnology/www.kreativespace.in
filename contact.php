@@ -33,6 +33,7 @@
                     <p class="mb-1-9">Connect with us to discuss your construction needs, from residential projects to commercial ventures. We're here to bring your vision to life.</p>
                     <ul class="social-icon-style3 ps-0">
                         <li class="me-1"><a href="https://www.facebook.com/people/Kreative-space-construction/100064778479255/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                        <li class="me-1"><a href="https://www.instagram.com/kreative_space_construction/?igsh=MTdseW5mZHdzNTQ3eg%3D%3D" target="_blank"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -128,7 +129,6 @@
                         </div>
                         <div class="flex-grow-1 ms-3">
                             <h3 class="h5">Phone Number</h3>
-                            <p class="mb-0"><a href="tel:+919159295577">+91 91 59 29 55 77</a></p>
                             <p class="mb-0"><a href="tel:+919940224051">+91 99 40 22 40 51</a></p>
                         </div>
                     </div>
@@ -161,8 +161,8 @@
                         <div class="flex-grow-1 ms-3">
                             <h3 class="h5">Location</h3>
                             <p class="mb-0 w-lg-80">
-                                70, General Bazaar St. Anna Nagar, Tennur, Tiruchirappalli.
-                                Branchs In: Tenkasi, Thoothukudi, Chennai.
+                            No:19,Pallivasal Thoppu Pensioner St, Thennur,Trichy.17 <br>
+                            Land mark :<br> General Bazar Masjid
                             </p>
                         </div>
                     </div>
@@ -170,7 +170,7 @@
             </div>
         </div>
     </div>
-    <img src="img/bg/bg-04.png" class="position-absolute bottom-0 right" alt="...">
+    <!-- <img src="img/bg/bg-04.png" class="position-absolute bottom-0 right" alt="..."> -->
 </section>
 
 <!-- MAP

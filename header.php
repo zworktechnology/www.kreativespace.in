@@ -85,7 +85,7 @@
                                         <li><a href="index.php">Home </a></li>
                                         <li><a href="about.php">About Us</a></li>
                                         <li><a href="services.php">Services</a></li>
-                                        <li><a href="projects.php">Project</a></li>
+                                        <li><a href="projects.php">Projects</a></li>
                                         <li><a href="contact.php">Contact Us</a></li>
 
                                     </ul>
@@ -96,7 +96,7 @@
                                     <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
                                         <ul>
                                             <li class="d-none d-xl-inline-block">
-                                                <a href="https://api.whatsapp.com/send/?phone=%2B919159295577&text&type=phone_number&app_absent=0" target="_blank" class="butn md">Chat on Whatsapp</a>
+                                                <a href="https://api.whatsapp.com/send/?phone=%2B919940224051&text&type=phone_number&app_absent=0" target="_blank" class="butn md">Chat on Whatsapp</a>
                                             </li>
                                         </ul>
                                     </div>
